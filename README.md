@@ -1,4 +1,4 @@
-# RAG Hadeeth with LLMs
+# Tibyan.AI
 
 ## Project Overview
 This project demonstrates how to apply **Retrieval-Augmented Generation (RAG)** techniques with **Large Language Models (LLMs)** to religious texts — specifically, **Hadith** and their explanations.  
