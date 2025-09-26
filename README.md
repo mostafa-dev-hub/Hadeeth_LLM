@@ -1,7 +1,7 @@
 # Tibyan.AI
 
 ## Project Overview
-This project demonstrates how to apply **Retrieval-Augmented Generation (RAG)** techniques with **Large Language Models (LLMs)** to religious texts — specifically, **Hadith** and their explanations.  
+This project demonstrates the application of **Retrieval-Augmented Generation (RAG)** techniques with **Large Language Models (LLMs)** to religious texts — specifically, **Hadith** and their explanations.  
 
 The workflow integrates **LangChain**, **ChromaDB**, and **OpenAI embeddings** to build a retriever system where users can query Hadith content, and the model responds with contextually grounded answers.
 
